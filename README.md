@@ -1,3 +1,3 @@
 # myphpapp
 My Test PHP Application
-This is for te CD
+This is for testing CD in the class
